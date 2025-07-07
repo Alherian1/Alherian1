@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy César Alejandro Velázquez Pineda (Alherian1)
 
-<!--
-**Alherian1/Alherian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador en formación | Apasionado por la tecnología, redes, videojuegos y la programación.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que uso
+- HTML, CSS, JavaScript
+- Python, C#
+- Unity, Blender
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Estoy aprendiendo
+- Inteligencia Artificial
+- Desarrollo de videojuegos 2D/3D
+- Seguridad en redes y SD-WAN
+
+## 📈 Estadísticas de GitHub
+![Alherian1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alherian1&show_icons=true&theme=radical)
+
+## 🌐 Conéctate conmigo
+- ✉️ Email: tu-correo@ejemplo.com
+- 💼 LinkedIn: [Tu perfil](https://www.linkedin.com)
+- 🌎 Portafolio: [Tu página personal](https://tusitio.com)
+
+---
+
+> *“El código es poesía, y cada línea es un paso hacia algo mejor.”*
