@@ -17,9 +17,8 @@
 ![Alherian1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alherian1&show_icons=true&theme=radical)
 
 ## 🌐 Conéctate conmigo
-- ✉️ Email: tu-correo@ejemplo.com
-- 💼 LinkedIn: [Tu perfil](https://www.linkedin.com)
-- 🌎 Portafolio: [Tu página personal](https://tusitio.com)
+- ✉️ Email: Al_herian@hotmail.com
+
 
 ---
 
